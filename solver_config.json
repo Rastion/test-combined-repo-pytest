@@ -1,0 +1,8 @@
+{
+  "entry_point": "my_solver:MySolver",
+  "default_params": {
+    "population_size": 10,
+    "max_generations": 20,
+    "verbose": false
+  }
+}
